@@ -1,0 +1,6 @@
+{
+  "name": "Dolomites Trip Itinerary",
+  "description": "An interactive, beautiful itinerary and route planner for the Dolomites summer trip, featuring maps, daily timelines, custom trails, and pre-trip prep alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
